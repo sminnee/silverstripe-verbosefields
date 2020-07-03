@@ -15,10 +15,10 @@ Status
 Usage
 -----
 
-First, install the module. For now, you'll need to pull dev-master
+First, install the module.
 
 ```
-> composer require sminnee/silverstripe-verbosefields:dev-master
+> composer require sminnee/silverstripe-verbosefields
 ```
 
 The field is used much like an OptionsetField. `setSourceDescriptions()` lets you specify a map of HTML descriptions for each item.
