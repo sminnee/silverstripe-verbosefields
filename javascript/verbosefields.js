@@ -36,7 +36,7 @@
 
         // Show this element's description temporarily
         console.log($(this).html())
-        descriptionEl.css('opacity', '0.5');
+        descriptionEl.css('opacity', '0.8');
         descriptionEl.html($(this).find('input').data('description'));
       },
 
