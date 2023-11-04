@@ -3,7 +3,7 @@
     "description": "Silverstripe admin fields that let you provide more description content",
     "type": "silverstripe-vendormodule",
     "require": {
-        "silverstripe/admin": "^1"
+        "silverstripe/admin": "^2"
     },
     "license": "BSD-3-Clause",
     "authors": [
